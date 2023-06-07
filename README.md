@@ -115,6 +115,8 @@ Execute the program
 
 # HTML VALIDATOR
 
+![html validator](https://github.com/ShriramGH/timetable/assets/117991122/fc407e20-6fdb-4bdb-abfa-76135fcf0bdb)
+
 
 # RESULT
 
